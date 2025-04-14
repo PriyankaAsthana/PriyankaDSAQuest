@@ -33,8 +33,11 @@ This is my personal coding journal to stay committed and to help others who migh
 ---
 ##📌 How to Use
 1.Clone this repo:
+
 2.Copy code: git clone https://github.com/PriyankaAsthana/Java-DSA
+
 3.Open in your Java IDE
+
 4.Run and tweak the code
 
 Learn and evolve 🌱
