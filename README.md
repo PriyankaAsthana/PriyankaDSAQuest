@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/PriyankaAsthana/Java-DSA?style=flat-square">
-  <img src="https://img.shields.io/github/repo-size/PriyankaAsthana/Java-DSA?style=flat-square">
   <img src="https://img.shields.io/badge/Status-Work_in_Progress-yellow?style=flat-square">
 </p>
 
@@ -43,6 +41,7 @@ Learn and evolve 🌱
 ---
 ##📫 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/priyanka-asthana-1b9a74250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 📬 Email: pri45712rir@gmail.com
 ---
 <p align="center"> ⭐ If you find this helpful, don’t forget to star it! ⭐ </p> 
