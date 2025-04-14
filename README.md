@@ -45,7 +45,7 @@ Learn and evolve 🌱
 ---
 ##📫 Connect with Me
 
-💼 LinkedIn: https://www.linkedin.com/in/priyanka-asthana-1b9a74250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+**💼 LinkedIn:** https://www.linkedin.com/in/priyanka-asthana-1b9a74250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 📬 Email: pri45712rir@gmail.com
 ---
