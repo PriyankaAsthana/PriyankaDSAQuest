@@ -24,6 +24,7 @@ It is structured topic-wise for easy access and revision.
 
 ---
 ##🌟 Why This Repo?
+
 Because I believe in:
 
 ✨ Consistency over intensity ✨
@@ -43,6 +44,7 @@ This is my personal coding journal to stay committed and to help others who migh
 Learn and evolve 🌱
 ---
 ##📫 Connect with Me
+
 💼 LinkedIn: https://www.linkedin.com/in/priyanka-asthana-1b9a74250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 📬 Email: pri45712rir@gmail.com
