@@ -1,4 +1,4 @@
-<h1 align="center">📘 Java DSA Chronicles</h1>
+<h1 align="center">📘 Priyanka Java&DSA Quest </h1>
 <p align="center">
   <i>Your journey through data structures and algorithms in Java</i><br>
   <b>By Priyanka Asthana</b>
